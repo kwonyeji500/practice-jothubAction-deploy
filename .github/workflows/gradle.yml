@@ -17,7 +17,7 @@ permissions:
   
 env:
   S3_BUCKET_NAME: be-pair-37
-      
+
 jobs:
   build:
 
