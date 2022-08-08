@@ -20,7 +20,7 @@ else
   echo "> kill -15 $CURRENT_PID" >> /home/ubuntu/action/deploy.log
   sudo kill -15 $CURRENT_PID
   sleep 5
-fi
+fi   
 
 
 DEPLOY_JAR=$DEPLOY_PATH$JAR_NAME
